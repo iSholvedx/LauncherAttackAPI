@@ -7,4 +7,4 @@ Install :
 
 - Git This Reposity
 - Installing Requirements ( requests, os, time, sys )
-- run it *main.py*
+- run it **main.py**
